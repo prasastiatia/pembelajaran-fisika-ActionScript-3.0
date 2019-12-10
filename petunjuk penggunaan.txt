@@ -1,0 +1,10 @@
+Petunjuk penggunaan :
+
+Aplikasi ini dijalankan dengan bantuan xampp 
+
+1. install xampp jika belum ada dan nyalakan mysql dan apache pada xampp.
+2. copy folder kuis ke dalam folder htdocs yang ada dalam folder xampp anda
+3. export database ke dalam phpmyAdmin yang ada di xampp (localhost/phpMyAdmin)
+4. jalankan aplikasi fisika.exe
+
+Jika tidak melakukan hal-hal diatas, aplikasi tetap bisa dijalankan, hanya saja tidak bisa menyimpan data ke database serta menampilkan nilai yang ada di dalam database
